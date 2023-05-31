@@ -33,7 +33,7 @@ footer {
     font-weight: bold;
 }
 
-#gridimage {
+.gridimage {
     padding: 50px;
     width: 350px;
     height: 350px;
