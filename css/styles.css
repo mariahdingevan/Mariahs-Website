@@ -47,7 +47,7 @@ h3 {
     font-style: italic;
 }
 
-#icons {
+.icons {
     display: flex;
     justify-content: center;
 }
